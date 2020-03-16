@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>sample_py</name>
+  <name>ros_sample_py</name>
   <version>0.0.0</version>
   <description>The sample_py package</description>
 

@@ -2,7 +2,7 @@
 
 import rospy
 # 生成したメッセージのヘッダファイル
-from sample_py.msg import sample_message
+from ros_sample_py.msg import sample_message
 
 
 def publisher():
